@@ -1,0 +1,8 @@
+.history{
+ background-color: #0e93d7;
+}
+.main{
+    width:1000px; height:200px; border:1px;
+    float: left;
+    padding: 10px;
+}

@@ -1,0 +1,75 @@
+WARN  2018-08-29 10:10:25.817 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 10:14:01.006 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 10:16:01.250 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 10:32:29.007 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 10:41:10.918 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 10:57:53.233 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 10:59:36.951 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 11:00:48.743 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 11:06:37.979 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 11:09:08.199 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 11:11:45.741 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 14:05:29.330 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 14:07:32.502 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 14:12:10.765 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 14:23:34.481 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 15:03:40.024 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 15:08:35.950 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 16:10:04.697 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 16:50:42.883 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 17:28:28.690 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 17:35:06.383 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 17:44:46.365 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 17:47:51.413 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 17:51:05.032 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+
+WARN  2018-08-29 17:53:10.062 net.sf.ehcache.config.ConfigurationFactory (136)
+No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/C:/Users/x4973/.m2/repository/net/sf/ehcache/ehcache-core/2.6.11/ehcache-core-2.6.11.jar!/ehcache-failsafe.xml
+

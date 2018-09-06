@@ -1,0 +1,33 @@
+*{margin:0;padding:0}
+
+table {
+    border: 1px solid rebeccapurple;
+    width:100%;
+}
+tr,td{
+    border: 1px solid rebeccapurple;
+    width: 30px;
+    text-align:right;
+}
+#To{
+
+    background-color: #8a6d3b;
+    width:1900px ;
+    height: 875px;
+    color: #1E9FFF;
+}
+#S1{
+
+    background-color: #a5d8a5;
+    width:1300px ;
+    height: 530px;
+    float: left;
+   margin: 172px 300px;
+}
+#S2{
+    background-color: #9F9F9F;
+    width:1300px ;
+    height: 430px;
+    float: left;
+    margin: 20px;
+}
