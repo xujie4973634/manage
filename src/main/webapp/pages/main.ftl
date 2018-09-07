@@ -59,6 +59,9 @@
                     error: errorMsg
                 });
                 function resutlMsg(msg){
+                    for (var key in msg){
+
+                    }
                     alert(msg);
                     $("#upfile").val("");
                 }
@@ -83,6 +86,7 @@
         }
         return true;
     }
+
 </script>
 
 </body>
